@@ -1,4 +1,4 @@
-# abrozkhan
+# AbrozKhan
 Abroz 's Data Analytics Learning Repository
 
 Welcome to the Data Analytics Learning Repository! This repository is designed to provide you with the resources and materials you need to learn and master the field of data analytics. Whether you're a beginner looking to get started or an experienced professional aiming to enhance your skills, you've come to the right place.
